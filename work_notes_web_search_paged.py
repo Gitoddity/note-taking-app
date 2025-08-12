@@ -3,7 +3,8 @@ import os
 import re
 from datetime import datetime
 
-WORK_NOTES_FOLDER = r"C:\Users\Srira\OneDrive\Canada\TD Bank Documents\Work Notes"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+WORK_NOTES_FOLDER = os.path.join(BASE_DIR, "notes")
 os.makedirs(WORK_NOTES_FOLDER, exist_ok=True)
 
 PAGE_SIZE = 50
