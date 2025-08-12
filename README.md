@@ -4,7 +4,7 @@
 
 A simple \*\*Flask\*\*-based web app to create, view, and manage notes — built as part of my AI and Python learning journey.  
 
-I wanted a simple way to save my observation from work and life in  notes , i know there are so many apps available for it like keep notes, notion , evernote. i just wanted something that is not on the cloud or owned by any companies so i whipped this up relatively quickly using ChatGPT
+I wanted a simple way to save my observation from work and life in  notes , i know there are so many apps available for it like keep notes, notion , evernote. i just wanted something that is not on the cloud or owned by any companies so i whipped this up to practice python.
 
 My  python fluentcy falls somewhere between an absolute beginner and an intermediate user depending on the problems that needs to be solved . I usually have an idea of the solution so using AI and my own understanding of python i created this app , hope you find it as usefull as i did.
 
