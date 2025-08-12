@@ -166,11 +166,11 @@ note-taking-app/
 
 
 
-!\[Screenshot 1](https://github.com/user-attachments/assets/e8bbea8f-9e61-4aaa-9a3c-417c88e96888)
+https://github.com/user-attachments/assets/e8bbea8f-9e61-4aaa-9a3c-417c88e96888
 
-!\[Screenshot 2](https://github.com/user-attachments/assets/f8156ddd-de7d-4149-83c3-855b97adcf11)
+https://github.com/user-attachments/assets/f8156ddd-de7d-4149-83c3-855b97adcf11
 
-!\[Screenshot 3](https://github.com/user-attachments/assets/62fb4d14-a9ef-47b4-a5b8-8495ea805bec)
+https://github.com/user-attachments/assets/62fb4d14-a9ef-47b4-a5b8-8495ea805bec
 
 
 
