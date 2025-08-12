@@ -2,10 +2,11 @@
 
 
 
-A simple \*\*Flask\*\*-based web app to create, view, and manage notes — built as part of my Python learning journey.  
+A simple \*\*Flask\*\*-based web app to create, view, and manage notes — built as part of my AI and Python learning journey.  
 
-This project demonstrates \*\*Flask basics\*\*, clean project structure, and good development practices with virtual environments.
+I wanted a simple way to save my observation from work and life in  notes , i know there are so many apps available for it like keep notes, notion , evernote. i just wanted something that is not on the cloud or owned by any companies so i whipped this up relatively quickly using ChatGPT
 
+My  python profecience falls somewhere between an absolute beginner and an intermediate user depending on the problems that needs to be solved . I usually have an idea of the solution so using AI and my own understanding of python i created this app , hope you find it as usefull as i did
 
 
 ---
@@ -15,6 +16,8 @@ This project demonstrates \*\*Flask basics\*\*, clean project structure, and goo
 \## 🚀 Features
 
 \- Add, view, and delete notes
+
+\- Search for notes using text or date rate
 
 \- Minimal UI for easy usage
 
@@ -166,11 +169,12 @@ note-taking-app/
 
 
 
-https://github.com/user-attachments/assets/e8bbea8f-9e61-4aaa-9a3c-417c88e96888
+![Screenshot 1](https://github.com/user-attachments/assets/e8bbea8f-9e61-4aaa-9a3c-417c88e96888)
 
-https://github.com/user-attachments/assets/f8156ddd-de7d-4149-83c3-855b97adcf11
 
-https://github.com/user-attachments/assets/62fb4d14-a9ef-47b4-a5b8-8495ea805bec
+![Screenshot 2](https://github.com/user-attachments/assets/f8156ddd-de7d-4149-83c3-855b97adcf11)
+
+![Screesnhot_3](https://github.com/user-attachments/assets/62fb4d14-a9ef-47b4-a5b8-8495ea805bec)
 
 
 
@@ -201,28 +205,5 @@ https://github.com/user-attachments/assets/62fb4d14-a9ef-47b4-a5b8-8495ea805bec
 
 
 This project is open-source under the \[MIT License](LICENSE).
-
-
-
-```
-
-
-
----
-
-
-
-If you want, I can also:
-
-\- \*\*Make you a GIF demo\*\* of the app running locally and embed it here (looks great on a portfolio).
-
-\- \*\*Add a simple Flask HTML template\*\* so it doesn’t just output plain text but has a minimal styled web UI.  
-
-
-
-Do you want me to do both so your repo looks more professional? That way it’s ready to impress on GitHub.
-
-```
-
 
 
