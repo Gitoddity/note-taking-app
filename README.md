@@ -207,3 +207,31 @@ note-taking-app/
 This project is open-source under the \[MIT License](LICENSE).
 
 
+perfect — here’s the same update snippet with the correct date:
+
+---
+
+## 🔄 Update – August 24, 2025
+
+The app now supports **flexible note naming**:
+
+* **Single-day notes** → `2025-08-23.txt`
+* **Date range notes** → `2025-08-18_to_2025-08-22.txt`
+* **Date + custom text** → `2025-08-23_meeting_notes.txt`
+* **Range + custom text** → `2025-08-18_to_2025-08-22_weekly_recap.txt`
+* **Custom name only** → `ideas.txt`
+
+✅ Validation rules:
+
+* “To” can’t be picked without “From”
+* “To” must be later than “From”
+* Filenames auto-sanitized
+
+This makes it easy to keep **daily**, **weekly**, or **custom-labeled** notes in one place.
+
+---
+
+would you like me to also prep a **git commit message** for this README update, so you can just copy-paste tomorrow when you push it?
+
+
+
